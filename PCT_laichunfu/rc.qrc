@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/close.jpg</file>
+        <file>images/dataselect.jpg</file>
+        <file>images/exp.jpg</file>
+        <file>images/funcset.jpg</file>
+        <file>images/logo.png</file>
+        <file>images/manage.jpg</file>
+        <file>images/reboot.jpg</file>
+        <file>images/check.jpg</file>
+        <file>images/cmos.jpg</file>
+        <file>images/update.jpg</file>
+        <file>images/ags_logo.png</file>
+        <file>images/systemcheck.jpg</file>
+        <file>images/waitTest.jpg</file>
+        <file>images/waitCard.jpg</file>
+        <file>images/testing.jpg</file>
+    </qresource>
+</RCC>
